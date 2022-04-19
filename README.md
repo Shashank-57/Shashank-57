@@ -1,4 +1,4 @@
-[![MasterHead](daniel-korpai-pKRNxEguRgM-unsplash.jpg)]
+![MasterHead](daniel-korpai-pKRNxEguRgM-unsplash.jpg)
 <h1 align="center">Hey there folks, I'm Shashank Shekhar</h1>
 <h3 align="center">A student solving problems through code, while enjoying music & watching Marvel movies!</h3>
 
