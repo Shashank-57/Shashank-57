@@ -1,4 +1,4 @@
-<img src = "daniel-korpai-pKRNxEguRgM-unsplash1.jpg" width="1080" height="500">
+<img src = "the-matrix-has-you-the-matrix.gif" width="1080" height="500">
 <h1 align="center">Hey there folks, I'm Shashank Shekhar</h1>
 <h3 align="center">A student solving problems through code, while enjoying music & watching Marvel movies!</h3>
 
